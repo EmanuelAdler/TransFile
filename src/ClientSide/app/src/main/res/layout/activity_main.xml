@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.trabalho.redes.redes.MainActivity">
+    tools:context="app.cliente.com.clientside.MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -31,5 +31,6 @@
         android:text="Enviar arquivo"
         app:layout_anchor="@+id/include"
         app:layout_anchorGravity="top|left" />
+
 
 </android.support.design.widget.CoordinatorLayout>

@@ -3,201 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/andreferro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_71cdc6ee7e1c234ecac29d7965d45867f4cf12aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="2888e220e7db526e07f42681ed82483158277e82">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e520ac3366b2e19656f764bcc4f1f19bfcbc71b7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/256f99fae99c84360879d673037869a0cfb1cc47/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1172b6ddfce6b8a46833c762db6e1288c7b1e8bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/390625fecf8d02b959b9bf3e63da35c384e9a809/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_624382bc308a50bd560bc3776cb54203e6ac9a8e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/fae92579152990cbb2f512ebc02b34a958792ae0/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f6fa51e7335ba0abf3fc512ae8c8797168e0618b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/8c63bb3ec07c6be395c24f12fe42efd1bd44db79/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fce1e76e69507fa71430f0c7eeb107e81ec48ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/ba02ba4fa972f79bd1c3f149c092724efbe20b69/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64340e1ab1759e96eae1bc417cfd4465f234608e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/b079986be3be339819609f32b40b953dbf48b907/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83030d596a4e586d4f435b8cf2baa50c310489c8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/3fe7a5fb8a406e0e016ecf9f56af04420abe3b2a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7abc6718de908a0c0eb9e7fb8a8a776d02dbb85a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/2ab8fa109c2021e586a7724118bdf44bcb91f75c/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ada2b69fff446e9a94aab9fc4ace613ef97fa4f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/167bbd2b277759c18bcca258904edca4247a83d4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2068c4e46c04afe41827756d0da9aa75298ce43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/3d128dbcb8b4395f4ab06bdfd9c297c5be2d18ca/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a61c6a76675490fc6b8a9863d452b70796300b70/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_88073e200f4ca394248c0580df555a6fd9400b2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/83d2f27e63b405d33b8c5ab478107088d798560a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe4ad676084a4732ca40a2587342d52cd82b5345/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/fae92579152990cbb2f512ebc02b34a958792ae0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff979579d9fbc5c952c51000e14f15f9974a8255/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/3fe7a5fb8a406e0e016ecf9f56af04420abe3b2a/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_942c02110ba8ef6bdaa53eec97c00188aad77aa2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/a917a96bc9f5eac6103a14be80820a1b31688b3d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63b0507a90f1fce948b77a0f6bc9f99b2a40e505/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/5fef2eb169e4e8450148816c7603d96ff759251f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67524a6107b459ec3ac8c4f5b659cf8bb55233e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/2ab8fa109c2021e586a7724118bdf44bcb91f75c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be3400fc7267196a7afccbd3564e575d39644807/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/3d128dbcb8b4395f4ab06bdfd9c297c5be2d18ca/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51d3eb697ece006f3b5c838b1db85cd34cf6bd0c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/andreferro/.android/build-cache/5fef2eb169e4e8450148816c7603d96ff759251f/output/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_69899dac77096a10a0aff0fa6734f25d48a8fa2f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/andreferro/Desktop/TransFile/src/ClientSide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Library/WebServer/Documents/github/quantogastei-mobileclient-rn/Redes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2e61410b77db3fbef8639461d75597add03b3c9/classes.dex" />
+        <dex dex="/Users/andreferro/Desktop/TransFile/src/ClientSide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57699d9f0d1f28c38df79ac078b5e0c5c929bfc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andreferro/Desktop/TransFile/src/ClientSide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b66657b526bb2b771c0b0ee7728778a2ad5a9018">
+        <dex dex="/Users/andreferro/Desktop/TransFile/src/ClientSide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9c57be38ff7e1903afbb0c4c45e418ac329dc22/classes.dex" />
     </item>
 
 </items>
