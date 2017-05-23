@@ -38,9 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 Socket sock = new Socket("192.168.0.14", 13267);
 
                 // sendfile
-                File myFile2 = new File(path + "/ArquivoTeste2.txt");
                 File myFile = new File(path + "/ArquivoTeste.txt");
-                byte[] mybytearray2 = new byte[(int) myFile2.length()];
                 byte[] mybytearray = new byte[(int) myFile.length()];
 
                 FileInputStream fis = new FileInputStream(myFile);
@@ -48,16 +46,6 @@ public class MainActivity extends AppCompatActivity {
                 bis.read(mybytearray, 0, mybytearray.length);
 
                 OutputStream os = sock.getOutputStream();
-
-                os.write(mybytearray, 0, mybytearray.length);
-
-                os.flush();
-
-                fis = new FileInputStream(myFile2);
-                bis = new BufferedInputStream(fis);
-                bis.read(mybytearray, 0, mybytearray.length);
-
-                os = sock.getOutputStream();
 
                 os.write(mybytearray, 0, mybytearray.length);
 
@@ -88,10 +76,8 @@ public class MainActivity extends AppCompatActivity {
 
                 // create the file that will be sent
                 File teste = new File(path + "/ArquivoTeste.txt");
-                File teste2 = new File(path + "/ArquivoTeste2.txt");
                 // save the file in the device
                 Save(teste, "teste123");
-                Save(teste2, "testeEmanuel");
                 Snackbar.make(view, "Arquivo criado com sucesso", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
                 t.start();
