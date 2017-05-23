@@ -11,6 +11,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Button;
 import android.widget.Toast;
 
 import java.io.BufferedInputStream;
@@ -46,14 +47,12 @@ public class MainActivity extends AppCompatActivity {
                 bis.read(mybytearray, 0, mybytearray.length);
 
                 OutputStream os = sock.getOutputStream();
-
                 os.write(mybytearray, 0, mybytearray.length);
-
                 os.flush();
 
                 sock.close();
             } catch (IOException e) {
-
+                System.out.println(e);
             }
         }
     });
@@ -69,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
         File dir = new File(path);
         dir.mkdir();
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
+        Button button = (Button) findViewById(R.id.button);
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
