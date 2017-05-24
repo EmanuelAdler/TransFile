@@ -9,20 +9,19 @@ public class ClientThread implements Runnable {
     }
 
     public void run() {
-        int bytesRead;
+        int bytesReaded;
 
         try {
             InputStream in = connectionSocket.getInputStream();
 
-            // Writing the file to disk
-            // Instantiating a new output stream object
+            // WRITE FILE
             OutputStream output = new FileOutputStream("teste.txt");
 
             byte[] buffer = new byte[1024];
-            while ((bytesRead = in.read(buffer)) != -1) {
-                output.write(buffer, 0, bytesRead);
+            while ((bytesReaded = in.read(buffer)) != -1) {
+                output.write(buffer, 0, bytesReaded);
             }
-            // Closing the FileOutputStream handle
+            // CLOSE STREAM HANDLE
             output.close();
         } catch (Exception e) {
             e.printStackTrace();
