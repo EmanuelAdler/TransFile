@@ -1,4 +1,3 @@
-package ServerSide;
 import java.io.*;
 import java.net.*;
 
@@ -19,7 +18,7 @@ public class ClientThread implements Runnable {
             // Instantiating a new output stream object
             OutputStream output = new FileOutputStream("teste.txt");
 
-            byte[] buffer = new byte[5024];
+            byte[] buffer = new byte[1024];
             while ((bytesRead = in.read(buffer)) != -1) {
                 output.write(buffer, 0, bytesRead);
             }

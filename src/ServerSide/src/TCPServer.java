@@ -1,4 +1,3 @@
-package ServerSide;
 import java.net.*;
 import java.io.*;
 
